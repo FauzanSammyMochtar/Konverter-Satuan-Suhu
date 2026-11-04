@@ -18,3 +18,6 @@ clang konverter_satuan_suhu.c -o konverter_satuan_suhu
 
 4. Jalankan program:
 ./konverter_satuan_suhu
+
+## Lisensi
+MIT License
