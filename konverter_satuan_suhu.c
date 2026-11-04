@@ -14,6 +14,4 @@ int main() {
 
   printf("Celsius ke fahrenheit: %.2f\n", f);
   printf("Celsius ke kelvin: %.2f\n", k);
-
-  return 0;
 }
